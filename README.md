@@ -2,9 +2,9 @@
 
 #COMPANY:CODETECH IT SOLUTIONS
 
-#NAME:SHARMILA PREETHI KENGUVA
+#NAME:VENKATA SRINIVASA RAO KILLADI
 
-#INTERN ID:CT04DF86
+#INTERN ID:CT04DF812
 
 #DOMAIN:PYTHON PROGRAMMING
 
@@ -151,8 +151,3 @@ Accuracy: 0.98
     weighted avg       0.98      0.98    0.98      6000
 
 OUTPUT:
-![Image](https://github.com/user-attachments/assets/b1c60bba-1fbf-4335-928a-ed2cef76786e)
-
-![Image](https://github.com/user-attachments/assets/c482ba03-f25b-4e03-be4d-6654d0161299)
-
-![Image](https://github.com/user-attachments/assets/95933a63-50a3-45bb-835f-22014947b15d)
