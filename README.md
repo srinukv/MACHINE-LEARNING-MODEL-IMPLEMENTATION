@@ -151,3 +151,9 @@ Accuracy: 0.98
     weighted avg       0.98      0.98    0.98      6000
 
 OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/3c01c5c2-e031-44e5-bbf9-31e27bf7097d)
+
+![Image](https://github.com/user-attachments/assets/4b2e4956-8ead-46fb-8875-9e0139563baf)
+
+![Image](https://github.com/user-attachments/assets/52172e39-86cd-4532-bf83-10e49b8d1e2c)
